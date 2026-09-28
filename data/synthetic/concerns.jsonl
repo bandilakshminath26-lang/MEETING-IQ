@@ -1,0 +1,40 @@
+{"concern_id": "R001", "customer_id": "C001", "meeting_id": "M001", "date": "2026-05-04", "concern": "SOC 2 compliance and security review", "severity": "high", "status": "open"}
+{"concern_id": "R002", "customer_id": "C001", "meeting_id": "M001", "date": "2026-05-18", "concern": "Salesforce and API integration", "severity": "medium", "status": "open"}
+{"concern_id": "R003", "customer_id": "C001", "meeting_id": "M001", "date": "2026-06-01", "concern": "enterprise pricing and contract flexibility", "severity": "medium", "status": "open"}
+{"concern_id": "R004", "customer_id": "C001", "meeting_id": "M001", "date": "2026-06-15", "concern": "SOC 2 compliance and security review", "severity": "high", "status": "open"}
+{"concern_id": "R005", "customer_id": "C002", "meeting_id": "M001", "date": "2026-05-06", "concern": "Salesforce and API integration", "severity": "high", "status": "open"}
+{"concern_id": "R006", "customer_id": "C002", "meeting_id": "M001", "date": "2026-05-20", "concern": "enterprise pricing and contract flexibility", "severity": "medium", "status": "open"}
+{"concern_id": "R007", "customer_id": "C002", "meeting_id": "M001", "date": "2026-06-03", "concern": "implementation timeline and migration effort", "severity": "medium", "status": "open"}
+{"concern_id": "R008", "customer_id": "C002", "meeting_id": "M001", "date": "2026-06-17", "concern": "Salesforce and API integration", "severity": "high", "status": "open"}
+{"concern_id": "R009", "customer_id": "C003", "meeting_id": "M001", "date": "2026-05-08", "concern": "enterprise pricing and contract flexibility", "severity": "high", "status": "open"}
+{"concern_id": "R010", "customer_id": "C003", "meeting_id": "M001", "date": "2026-05-22", "concern": "implementation timeline and migration effort", "severity": "medium", "status": "open"}
+{"concern_id": "R011", "customer_id": "C003", "meeting_id": "M001", "date": "2026-06-05", "concern": "reporting and analytics requirements", "severity": "medium", "status": "open"}
+{"concern_id": "R012", "customer_id": "C003", "meeting_id": "M001", "date": "2026-06-19", "concern": "enterprise pricing and contract flexibility", "severity": "high", "status": "open"}
+{"concern_id": "R013", "customer_id": "C004", "meeting_id": "M001", "date": "2026-05-10", "concern": "implementation timeline and migration effort", "severity": "high", "status": "open"}
+{"concern_id": "R014", "customer_id": "C004", "meeting_id": "M001", "date": "2026-05-24", "concern": "reporting and analytics requirements", "severity": "medium", "status": "open"}
+{"concern_id": "R015", "customer_id": "C004", "meeting_id": "M001", "date": "2026-06-07", "concern": "SOC 2 compliance and security review", "severity": "medium", "status": "open"}
+{"concern_id": "R016", "customer_id": "C004", "meeting_id": "M001", "date": "2026-06-21", "concern": "implementation timeline and migration effort", "severity": "high", "status": "open"}
+{"concern_id": "R017", "customer_id": "C005", "meeting_id": "M001", "date": "2026-05-12", "concern": "reporting and analytics requirements", "severity": "high", "status": "open"}
+{"concern_id": "R018", "customer_id": "C005", "meeting_id": "M001", "date": "2026-05-26", "concern": "SOC 2 compliance and security review", "severity": "medium", "status": "open"}
+{"concern_id": "R019", "customer_id": "C005", "meeting_id": "M001", "date": "2026-06-09", "concern": "Salesforce and API integration", "severity": "medium", "status": "open"}
+{"concern_id": "R020", "customer_id": "C005", "meeting_id": "M001", "date": "2026-06-23", "concern": "reporting and analytics requirements", "severity": "high", "status": "open"}
+{"concern_id": "R021", "customer_id": "C006", "meeting_id": "M001", "date": "2026-05-14", "concern": "SOC 2 compliance and security review", "severity": "high", "status": "open"}
+{"concern_id": "R022", "customer_id": "C006", "meeting_id": "M001", "date": "2026-05-28", "concern": "Salesforce and API integration", "severity": "medium", "status": "open"}
+{"concern_id": "R023", "customer_id": "C006", "meeting_id": "M001", "date": "2026-06-11", "concern": "enterprise pricing and contract flexibility", "severity": "medium", "status": "open"}
+{"concern_id": "R024", "customer_id": "C006", "meeting_id": "M001", "date": "2026-06-25", "concern": "SOC 2 compliance and security review", "severity": "high", "status": "open"}
+{"concern_id": "R025", "customer_id": "C007", "meeting_id": "M001", "date": "2026-05-16", "concern": "Salesforce and API integration", "severity": "high", "status": "open"}
+{"concern_id": "R026", "customer_id": "C007", "meeting_id": "M001", "date": "2026-05-30", "concern": "enterprise pricing and contract flexibility", "severity": "medium", "status": "open"}
+{"concern_id": "R027", "customer_id": "C007", "meeting_id": "M001", "date": "2026-06-13", "concern": "implementation timeline and migration effort", "severity": "medium", "status": "open"}
+{"concern_id": "R028", "customer_id": "C007", "meeting_id": "M001", "date": "2026-06-27", "concern": "Salesforce and API integration", "severity": "high", "status": "open"}
+{"concern_id": "R029", "customer_id": "C008", "meeting_id": "M001", "date": "2026-05-18", "concern": "enterprise pricing and contract flexibility", "severity": "high", "status": "open"}
+{"concern_id": "R030", "customer_id": "C008", "meeting_id": "M001", "date": "2026-06-01", "concern": "implementation timeline and migration effort", "severity": "medium", "status": "open"}
+{"concern_id": "R031", "customer_id": "C008", "meeting_id": "M001", "date": "2026-06-15", "concern": "reporting and analytics requirements", "severity": "medium", "status": "open"}
+{"concern_id": "R032", "customer_id": "C008", "meeting_id": "M001", "date": "2026-06-29", "concern": "enterprise pricing and contract flexibility", "severity": "high", "status": "open"}
+{"concern_id": "R033", "customer_id": "C009", "meeting_id": "M001", "date": "2026-05-20", "concern": "implementation timeline and migration effort", "severity": "high", "status": "open"}
+{"concern_id": "R034", "customer_id": "C009", "meeting_id": "M001", "date": "2026-06-03", "concern": "reporting and analytics requirements", "severity": "medium", "status": "open"}
+{"concern_id": "R035", "customer_id": "C009", "meeting_id": "M001", "date": "2026-06-17", "concern": "SOC 2 compliance and security review", "severity": "medium", "status": "open"}
+{"concern_id": "R036", "customer_id": "C009", "meeting_id": "M001", "date": "2026-07-01", "concern": "implementation timeline and migration effort", "severity": "high", "status": "open"}
+{"concern_id": "R037", "customer_id": "C010", "meeting_id": "M001", "date": "2026-05-22", "concern": "reporting and analytics requirements", "severity": "high", "status": "open"}
+{"concern_id": "R038", "customer_id": "C010", "meeting_id": "M001", "date": "2026-06-05", "concern": "SOC 2 compliance and security review", "severity": "medium", "status": "open"}
+{"concern_id": "R039", "customer_id": "C010", "meeting_id": "M001", "date": "2026-06-19", "concern": "Salesforce and API integration", "severity": "medium", "status": "open"}
+{"concern_id": "R040", "customer_id": "C010", "meeting_id": "M001", "date": "2026-07-03", "concern": "reporting and analytics requirements", "severity": "high", "status": "open"}
